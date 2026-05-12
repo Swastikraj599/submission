@@ -4,7 +4,7 @@
 
 The five repositories provided are:
 
-| # | Repository | Strictly Python-Based? |
+| S.No. | Repository | Strictly Python-Based? |
 |---|-----------|------------------------|
 | 1 | [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka) | Yes |
 | 2 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | No  |
