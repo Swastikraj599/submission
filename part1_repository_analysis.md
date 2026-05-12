@@ -44,3 +44,6 @@ A command-line tool and importable Python library. The `beets` core manages a SQ
 ### 4. FoundationAgents/MetaGPT
 
 A Python framework that wraps LLM API calls inside role-based agents. Each `Role` has a name, goals, and a set of `Action` objects it can execute. Communication between roles is asynchronous via an in-memory message bus. The framework supports both sequential (waterfall-style) and concurrent execution. Newer versions add a `DataInterpreter` agent for code execution and data analysis tasks.
+
+## Declaration
+"I declare that all written content in this assessment is my own work, created without the use of AI language models or automated writing tools. All technical analysis and documentation reflects my personal understanding and has been written in my own words."
